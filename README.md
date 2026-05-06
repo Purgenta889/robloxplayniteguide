@@ -39,5 +39,5 @@ Save your changes. Now, when you launch the Roblox Player, it will track and mon
 You have now successfully added Roblox as a game on Playnite!
 
 # FAQ
-## Why Not Simply Add The RobloxPlayerBeta.exe?
-This will only work temporarily. Once the Roblox Player updates, the version will change, changing the directory of the RobloxPlayerBeta.exe. As a result, you'll have to manually change the directory every single time. This isn't great for people who want seamless setups, such as couch gaming.
+## Why Not Simply Add The `RobloxPlayerBeta.exe`?
+This will only work temporarily. Once the Roblox Player updates, the version will change, changing the directory of the `RobloxPlayerBeta.exe`. As a result, you'll have to manually change the directory every single time. This isn't great for people who want seamless setups, such as couch gaming.
