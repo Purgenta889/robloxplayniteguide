@@ -1,6 +1,5 @@
 # How To Add Roblox as a Game To Playnite on Windows
-This is a guide on how to add Roblox as a game to Playnite on Windows. You can also view this guide on Rentry:
-https://rentry.co/robloxplayniteguide
+This is a guide on how to add Roblox as a game to Playnite on Windows. You can also view this guide on [Rentry](https://rentry.co/robloxplayniteguide).
 
 > [!NOTE]
 > This only works for the `RobloxPlayerBeta.exe`. This means that the site is not used, rather the Roblox Player app itself is. Apologies for the inconvenience.
