@@ -1,5 +1,5 @@
 # How To Add Roblox as a Game To Playnite on Windows
-This is a guide on how to add Roblox as a game to Playnite on Windows. You can also view this guide on [Rentry](https://rentry.co/robloxplayniteguide).
+This is a guide on how to add Roblox as a game to Playnite on Windows. It also shows you how to add a singular Roblox game to your library. You can also view this guide on [Rentry](https://rentry.co/robloxplayniteguide).
 
 > [!NOTE]
 > This only works for the `RobloxPlayerBeta.exe`. This means that the site is not used, rather the Roblox Player app itself is. Apologies for the inconvenience.
@@ -36,6 +36,15 @@ Tracking Path: `C:\Users\(Your User)\AppData\Local\Roblox\Versions`
 Save your changes. Now, when you launch the Roblox Player, it will track and monitor the .exe properly. 
 
 You have now successfully added Roblox as a game on Playnite!
+
+# (Optional) Launching into a Specific Game
+If you want to launch into a game automatically from Playnite, such as wanting to quickly launch into a game without having to browse through Roblox's menu, or adding a different UI launcher, replace Path with:
+
+`roblox://experiences/start?placeId=[Place_ID]`
+
+Replace `[Place_ID]` with the game's ID. For example, `13086985452` is the place ID for the fan-made [Xbox UI Launcher](https://www.roblox.com/games/13086985452/Xbox-UI-Launcher). So, the arguments within Path would look like:
+
+`roblox://experiences/start?placeId=13086985452`
 
 # FAQ
 ## Why Not Simply Add The `RobloxPlayerBeta.exe`?
