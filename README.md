@@ -42,9 +42,9 @@ If you want to launch into a game automatically from Playnite, such as wanting t
 
 `roblox://experiences/start?placeId=[Place_ID]`
 
-Replace `[Place_ID]` with the game's ID. For example, `13086985452` is the place ID for the fan-made [Xbox UI Launcher](https://www.roblox.com/games/13086985452/Xbox-UI-Launcher). So, the arguments within Path would look like:
+Replace `[Place_ID]` with the game's ID. For example, `124180448122765` is the place ID for Roblox's [The Hunt: Mega Edition](https://www.roblox.com/games/124180448122765/The-Hunt-Mega-Edition). So, the arguments within Path would look like:
 
-`roblox://experiences/start?placeId=13086985452`
+`roblox://experiences/start?placeId=124180448122765`
 
 # FAQ
 ## Why Not Simply Add The `RobloxPlayerBeta.exe`?
